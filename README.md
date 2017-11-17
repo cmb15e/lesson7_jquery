@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Nov. 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Connor Blay
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned how to use jQuery to display lists.
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use jQuery methods.
+2. How to create a hover link for a list.
+3. How to use the JavaScript Console.
 
